@@ -3,6 +3,16 @@
 ## Problem Statement:
 In urban areas, new residents often face challenges in finding affordable rental accommodations. Property dealers sometimes take advantage of their unfamiliarity with local rental rates, leading to situations where newcomers overpay for rent. This project aims to address this issue by developing a system that predicts rental prices based on various features such as the number of bedrooms, property size, number of bathrooms, city location, furnishing status, and tenant preferences. By providing accurate rental price predictions, this system helps individuals make informed decisions and avoid overpaying for rent.
 
+Before
+
+![image](https://github.com/manans791/Rent-Price-Prediction/assets/56390676/d1c8e311-cc1c-4fe2-9778-efd5c7b17baf)
+
+Prediction
+
+![image](https://github.com/manans791/Rent-Price-Prediction/assets/56390676/b172a5c0-d303-4b73-bbba-30e29b752eda)
+
+
+
 ## Tools and Techniques:
 - **Frontend Development:** HTML and CSS are used to design and structure the user interface for the rent prediction system.
 - **Backend Development:** Flask, a lightweight web framework for Python, is employed to build the backend of the system, handle HTTP requests, and serve predictions.
