@@ -1,5 +1,7 @@
 # Project Summary: House Rent Prediction
 
+### Live Demo - https://rentpricedetection.azurewebsites.net/
+
 ## Problem Statement:
 In urban areas, new residents often face challenges in finding affordable rental accommodations. Property dealers sometimes take advantage of their unfamiliarity with local rental rates, leading to situations where newcomers overpay for rent. This project aims to address this issue by developing a system that predicts rental prices based on various features such as the number of bedrooms, property size, number of bathrooms, city location, furnishing status, and tenant preferences. By providing accurate rental price predictions, this system helps individuals make informed decisions and avoid overpaying for rent.
 
